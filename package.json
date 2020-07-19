@@ -1,0 +1,19 @@
+{
+    "name": "a-ada-app",
+    "version": "1.0.0",
+    "description": "Automate your registration easily",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Emin Aliyev",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^5.2.0"
+    },
+    "engines": {
+        "node": "12.18.2"
+    }
+}
+  
